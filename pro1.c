@@ -26,6 +26,9 @@ int main(void)
 		printf("페이지 수: ");
 		scanf("%d", &info[i].page);
 	}
+ 
+
+	printf("change");
 
 	printf("\n");
 
